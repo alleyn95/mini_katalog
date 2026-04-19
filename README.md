@@ -1,17 +1,18 @@
-# mini_katalog
+# mini_katalog uygulaması:
 
-A new Flutter project.
+   
+    
+    Eğitim boyunca Flutterin temel yapı taşlarını öğrenmek  hedeflenmiştir.
+ * Widget yapısı( Stateless ve Stateful) arasındaki farkı kavrayıp projede kullandım
+ * Sayfa geçişleri ve Navigasyon( Navigator.push/pop). kullanarak sayfa geçişleri yaptım ve bir sayfadan diğerine veri aktarmayı öğrendim.
+ * Veri modeli oluşturma ve JSON mantığını kavradım. 
+ * proje dosyalarını;modeller,ekranlar ve assetler olarak ayırarak düzenli tutmaya çalıştım.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ #Teknik Detaylar 
+ Flutter sürümü:3.x( stabil sürüm)
+ Geliştirme ortamı:VS CODE & Android Emulator  
+ Paketler:projemde sadece metarial.dart paketini kullandım extra paket yüklemedim.
+ Veri kaynağı : Ürün listesi için https://wantapi.com/products.php adresi simüle edilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
