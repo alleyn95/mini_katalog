@@ -1,17 +1,27 @@
-# mini_katalog
+# mini_katalog uygulaması:
 
-A new Flutter project.
+   
+    
+    Eğitim boyunca Flutterin temel yapı taşlarını öğrenmek  hedeflenmiştir.
+ * Widget yapısı( Stateless ve Stateful) arasındaki farkı kavrayıp projede kullandım
+ * Sayfa geçişleri ve Navigasyon( Navigator.push/pop). kullanarak sayfa geçişleri yaptım ve bir sayfadan diğerine veri aktarmayı öğrendim.
+ * Veri modeli oluşturma ve JSON mantığını kavradım. 
+ * proje dosyalarını;modeller,ekranlar ve assetler olarak ayırarak düzenli tutmaya çalıştım.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ #Teknik Detaylar 
+ Flutter sürümü:3.x( stabil sürüm)
+ Geliştirme ortamı:VS CODE & Android Emulator  
+ Paketler:projemde sadece metarial.dart paketini kullandım extra paket yüklemedim.
+ Veri kaynağı : Ürün listesi için https://wantapi.com/products.php adresi simüle edilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dd9c958-85e4-4b2d-89b7-b387e69bc0b2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2ecb861-b7c5-476b-9df9-030b6f9692db" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b0fe3d7-eed7-4dbb-8326-8aed2f659710" /> 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e70bd494-2691-4840-843c-7296dd0e7b42" /> 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc8dc093-706c-4c0a-bc0b-89e9b2f0105b" /> 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/170cca55-b18e-418f-9c63-6fb393d02015" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
